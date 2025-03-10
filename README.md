@@ -1,8 +1,10 @@
 # ✨ Bookmark.gg ✨
 
-> *A minimalist bookmark manager that organizes links visually, making saved resources easier to find without clutter.*
+> *Beautifully organise your bookmarks.*
 
-[https://bookmark.gg](https://bookmark.gg)
+Website: [https://bookmark.gg](https://bookmark.gg)
+
+Example public page: [http://bookmark.gg/p/21EN1U](http://bookmark.gg/p/21EN1U)
 
 ## 🌟 Welcome to Bookmark.gg
 
@@ -38,3 +40,14 @@ In a world of information overload, Bookmark.gg helps you:
 - **⏱️ Save Time**: Find your bookmarks instantly with visual cues and smart search
 - **🎯 Stay Focused**: Reduce digital clutter and maintain a clean, organized collection
 - **🌱 Grow Intentionally**: Build a meaningful library of resources without the noise
+
+## 💬 What Users Say
+
+> "Bookmark.gg transformed my messy bookmarks into a beautiful, organized system I actually use daily."
+> — Sarah K.
+
+> "The visual organization makes finding my saved resources so intuitive. I'm never going back to traditional bookmarks."
+> — Michael T.
+
+> "Finally, a bookmark manager that's as visually pleasing as it is functional."
+> — Jamie L.
